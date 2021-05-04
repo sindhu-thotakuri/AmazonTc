@@ -1,0 +1,5 @@
+com\amazon\pages\Amazonpages.class
+com\amazon\testbase\Testbase.class
+com\amazon\testcase\Testcase.class
+com\amazon\utility\ExcelUtility.class
+com\amazon\utility\Reporting.class
